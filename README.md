@@ -1,4 +1,4 @@
-# About The Project
+# About This Project
 
 # Hardware Used In This Project
 
