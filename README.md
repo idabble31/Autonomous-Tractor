@@ -2,7 +2,7 @@
 
 This is a project from ITTelkom Surabaya that turns a conventional two-wheeled hand tractor into an autonomous one.
 
-[![Demo Video]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/Tj9DnuErYyE?feature=shared))]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tj9DnuErYyE?si=AemTauYXm-jjVgWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Hardware Used In This Project
