@@ -2,8 +2,7 @@
 
 This is a project from ITTelkom Surabaya that turns a conventional two-wheeled hand tractor into an autonomous one.
 
-link to the profile video of the project : https://www.youtube.com/embed/Tj9DnuErYyE?si=AemTauYXm-jjVgWq
-
+[![Watch the Video](https://img.youtube.com/vi/Tj9DnuErYyE/0.jpg)](https://www.youtube.com/watch?v=Tj9DnuErYyE)
 
 ## Hardware Used In This Project
 - Pixhawk Cube Orange
